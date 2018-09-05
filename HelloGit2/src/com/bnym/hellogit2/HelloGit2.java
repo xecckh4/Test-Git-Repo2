@@ -8,6 +8,7 @@ public class HelloGit2 {
 		
 		String[] names = {"one", "two", "three"};
 		
+		//More Comments.
 		for (String str : names) {
 			System.out.println ("The name is:"+ str);
 		}
