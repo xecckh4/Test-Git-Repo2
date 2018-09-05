@@ -10,7 +10,9 @@ public class HelloGit2 {
 		
 		//More Comments.
 		for (String str : names) {
+			//Added Comments by the First User Second Time.
 			System.out.println ("The name is:"+ str);
+			//Added Comments by the First User Second Time.
 		}
 	}
 }
