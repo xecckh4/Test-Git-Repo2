@@ -6,10 +6,11 @@ public class HelloGit2 {
 		//sample comments
 		System.out.println ("Testing Hello GIT 2.");
 		
-		String[] names = {"one", "two", "three"};
+		String[] names = {"one", "two", "three", "four", "five"};
 		
 		for (String str : names) {
 			System.out.println ("The name is:"+ str);
+			System.out.println ("The name again is:"+str);
 		}
 	}
 }
